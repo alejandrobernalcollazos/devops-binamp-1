@@ -46,7 +46,7 @@ adduser desarrollo
 ```
 Impersonarme como el usuario desarrollo
 ```
-sudo su desarrollo
+su desarrollo
 ```
 
 ## 6. Ir al home del usuario desarrollo
