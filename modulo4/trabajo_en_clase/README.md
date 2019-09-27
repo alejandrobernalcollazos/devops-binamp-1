@@ -92,3 +92,8 @@ http.createServer(function (req, res) {
 console.log('Server running at 3000');
 ``` 
 
+## 12. Ejecutar el archivo server.js
+
+```
+node server.js
+```
