@@ -46,7 +46,7 @@ adduser desarrollo
 ```
 Impersonarme como el usuario desarrollo
 ```
-sudo su desarrollo
+su desarrollo
 ```
 
 ## 6. Ir al home del usuario desarrollo
@@ -92,3 +92,8 @@ http.createServer(function (req, res) {
 console.log('Server running at 3000');
 ``` 
 
+## 12. Ejecutar el archivo server.js
+
+```
+node server.js
+```
